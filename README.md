@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @havinash12
-- 👀 I’m interested in python programming
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on python and php projects
+- 👋 Hi, I’m Havinash P H
+- 👀 I’m interested in Artificail Intelligence, Machine Learning & Data Science
+- 🌱 I’m expertising in Python
+- 💞️ I’m doing my research in Machine Learning for Cyber Security
 - 📫 How to reach me mail me havinashh@gmail.com
 
 <!---
